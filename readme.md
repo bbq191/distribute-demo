@@ -1,0 +1,5 @@
+- [x] 单体应用锁的各种方式
+- [x] update 行级锁
+- [x] 理解 synconize 的使用
+- [x] 理解 ReentrantLock 的使用
+- [x] 理解单体应用锁不可跨 jvm 的缺陷
